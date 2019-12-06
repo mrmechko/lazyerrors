@@ -7,7 +7,7 @@ with open("README.MD", "r") as fh:
 if __name__ == '__main__':
     setup(
         name="lazyerrors",
-        version="0.0.1",
+        version="0.0.2",
         author="Rik Bose",
         author_email="rbose@cs.rochester.edu",
         description="Useful errors for lazy people",
